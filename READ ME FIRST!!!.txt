@@ -5,13 +5,13 @@ ADMIN PANEL LOGIN:
 >> NOTE : (for admin panel, login from the user's login)
 >>Enter the following details in Login for Admin Panel.
 
-Username: 
-Password: 
+Username: admin@admin.com
+Password: password
 
 USER LOGIN:
 
-Username: 
-Password: 
+Username: harry@den.com
+Password: code0
 
 DON'T FORGET TO CREATE A DATABASE NAMING "online_store" AND IMPORT THE SQL FILE TO RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
